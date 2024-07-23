@@ -1,0 +1,5 @@
+#Enviorment Variables and Secrets
+.env
+
+#Virtual Enviornment Variables
+.venv
